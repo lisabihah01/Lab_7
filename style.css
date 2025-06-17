@@ -1,5 +1,9 @@
 /* General Page Styling */
 body {
+    background-color: red !important;
+}
+
+body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 40px;
