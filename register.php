@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Register User</title>
+    <link rel="stylesheet" href="style.css"> <!-- Move this here -->
 </head>
 <body>
     <h2>User Registration</h2>
@@ -16,6 +17,5 @@
         </select><br>
         <button type="submit">Register</button>
     </form>
-   <link rel="stylesheet" href="style.css">
-</body>
+  </body>
 </html>
