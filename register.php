@@ -16,6 +16,6 @@
         </select><br>
         <button type="submit">Register</button>
     </form>
-    <link rel="stylesheet" href="style.css">
+   <link rel="stylesheet" href="style.css">
 </body>
 </html>
